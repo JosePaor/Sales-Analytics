@@ -19,6 +19,7 @@ app = dash.Dash(__name__,
 
 # Add line for render
 server = app.server
+application = app.server  # Para compatibilidad con WSGI
 
 # Paleta de colores mejorada
 COLORS = {
