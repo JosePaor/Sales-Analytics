@@ -6,7 +6,7 @@ This project is the **backend** for an interactive sales dashboard that provides
 
 The **frontend** for this project is developed using `Dash` and can be found in the following repository:
 
-**Frontend Repository:** [Sales Analytics Dashboard](https://github.com/JosePaor/Sales-Analytics)
+**Frontend Repository:** [Sales Analytics Dashboard](https://github.com/JosePaor/Sales-Analytics-Dashboard)
 
 ## Features
 
