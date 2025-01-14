@@ -17,9 +17,8 @@ app = dash.Dash(__name__,
                 external_stylesheets=[dbc.themes.DARKLY, dbc.icons.FONT_AWESOME],
                 meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}])
 
-# Add line for render
+# Exponer el servidor para gunicorn
 server = app.server
-application = app.server  # Para compatibilidad con WSGI
 
 # Paleta de colores mejorada
 COLORS = {

@@ -1,17 +1,17 @@
 # Sales Dashboard
 
-## Descripción
+## Description
 
-Este proyecto es un dashboard de ventas interactivo que proporciona información en tiempo real sobre el rendimiento de las ventas de productos. Utiliza `Dash` para la visualización de datos y `FastAPI` para el backend que sirve los datos.
+This project is an interactive sales dashboard that provides real-time insights into product sales performance. It uses `Dash` for data visualization and `FastAPI` for the backend that serves the data.
 
-## Características
+## Features
 
-- **Visualización de Ventas por Producto**: Gráfico de barras que muestra las ventas totales por producto.
-- **Tendencia de Ventas Diarias**: Gráfico de líneas que muestra la suma de las ventas diarias.
-- **Rendimiento por Categoría**: Gráfico de pastel que muestra la distribución de ingresos por categoría.
-- **Métricas Clave**: Total Revenue, Average Order Value y Top Category.
+- **Product Sales Visualization**: Bar chart showing total sales by product.
+- **Daily Sales Trend**: Line chart showing the sum of daily sales.
+- **Category Performance**: Pie chart showing the revenue distribution by category.
+- **Key Metrics**: Total Revenue, Average Order Value, and Top Category.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - [Dash](https://dash.plotly.com/)
 - [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)
@@ -20,15 +20,15 @@ Este proyecto es un dashboard de ventas interactivo que proporciona información
 - [Pandas](https://pandas.pydata.org/)
 - [SQLite](https://www.sqlite.org/index.html)
 
-## Instalación
+## Installation
 
-### Requisitos Previos
+### Prerequisites
 
-- Python 3.8 o superior
-- pip (gestor de paquetes de Python)
+- Python 3.8 or higher
+- pip (Python package manager)
 
-### Clonar el Repositorio
+### Clone the Repository
 
 ```sh
-git clone https://github.com/tu-usuario/sales-dashboard.git
+git clone https://github.com/your-username/sales-dashboard.git
 cd sales-dashboard
